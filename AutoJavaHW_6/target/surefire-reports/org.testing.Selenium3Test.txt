@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.testing.Selenium3Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.1 s - in org.testing.Selenium3Test

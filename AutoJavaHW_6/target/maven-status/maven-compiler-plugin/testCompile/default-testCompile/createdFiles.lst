@@ -1,0 +1,9 @@
+org\testing\paramTest.class
+org\testing\Selenium1Test.class
+org\testing\Selenium3Test.class
+org\testing\AssertJTest.class
+org\testing\stepDef.class
+org\testing\CucumberTest.class
+org\testing\JUnitAssumptionsTest.class
+org\testing\simpleTest.class
+org\testing\Selenium2Test.class
